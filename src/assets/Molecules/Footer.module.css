@@ -1,0 +1,10 @@
+.footer_container {
+  display: flex;
+  font-family: Roboto, sans-serif;
+  column-gap: 8rem;
+  justify-content: center;
+}
+
+.footer_text {
+  font-size: 1rem;
+}

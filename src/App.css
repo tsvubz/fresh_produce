@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+.content {
+  overflow: hidden;
+}
+
+.highlight-section {
+  display: flex;
+  flex-direction: column;
+  row-gap: 4rem;
+}
+
+.footer-section {
+  margin: 4rem 0;
+}
